@@ -1,6 +1,5 @@
 /*
 * Code Written By Ali Raza Bhangu
-* Student Number: 300234254
 * Date: 01-29-2023
 */
 
